@@ -1,0 +1,17 @@
+{
+  "name": "url2img",
+  "version": "1.0.0",
+  "description": "convert url to image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "url-to-image": "^1.0.0",
+    "url-to-screenshot": "^3.0.0",
+    "url2image": "0.0.3",
+    "webshot": "^0.18.0"
+  }
+}
